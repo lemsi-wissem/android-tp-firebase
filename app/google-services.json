@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "648118658007",
+    "firebase_url": "https://tp5-android-30120-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tp5-android-30120",
+    "storage_bucket": "tp5-android-30120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648118658007:android:7fe6475475fb1a81dba192",
+        "android_client_info": {
+          "package_name": "com.example.tp5firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFyjmMuMTmu1l_7mgWzgBGASuqh08rCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648118658007:android:8f434593a67bfd5adba192",
+        "android_client_info": {
+          "package_name": "com.example.tp5version2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFyjmMuMTmu1l_7mgWzgBGASuqh08rCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
